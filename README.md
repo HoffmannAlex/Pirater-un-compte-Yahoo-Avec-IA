@@ -1,4 +1,4 @@
-# Outil de Test de Sécurité Yahoo avec IA Avancée | À des Fins Éducatives Uniquement
+# Outil de Hack de Sécurité Yahoo avec IA Avancée 2026 | À des Fins Éducatives Uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![IA](https://img.shields.io/badge/IA-Activée-brightgreen)
